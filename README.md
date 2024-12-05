@@ -35,9 +35,34 @@ Note: The GLBA is a European based regulation.
 
 Information Security Frameworks
 
+Information security frameworks provides an in-dept set of documents that outline an organization's approach to security and governs how it is implemented, managed, and enforced. This includes the following:
 
+*Policies: A formal statement that outlines an organisation's goals, principles, and guidelines for achieving specific objectives.
+*Standards: A document establishing specific requirements or specifications for a particular process, product, or service.
+*Guidelines: A document that provides recommendations and best practices (non-mandatory) for achieving specific goals or objectives.
+*Procedures: Set of specific steps for undertaking a particular task or process.
+*Baselines: A set of minimum security standards or requirements that an organisation or system must meet.
 
+Documentation 
 
+Documentation is a very important process in GRC and should never be overlooked. It outlines all of the policies and procedures that must be taken in order for standards to be upheld. For example, every organization should have password policy documentation. This is an example of preparing a password policy from the lab. 
 
+*Define password requirements: Minimum length, complexity, and expiration.
+*Define password usage guidelines: Specify how passwords should be used, such as requiring unique passwords for each account, prohibiting the sharing of passwords, and prohibiting default passwords.
+*Define password storage and transmission guidelines: Using encryption for password storage and requiring secure connections for password transmission.
+*Define password change and reset guidelines: How often passwords should be changed etc. 
+*Communicate the policy: Communicate the password policy to all relevant employees and stakeholders, and ensure that they understand the requirements and guidelines. Develop training and awareness programs to ensure that employees follow the policy.
+*Monitor compliance: Monitor compliance with the password policy and adjust the policy as needed based on feedback and changes in the threat landscape or regulatory environment.
+
+There are even documentation for incident response procedures. This really shows how robust documentation must be in order to adhere to all of the laws and regulations in order to continue and thrive as a business. For my knowledge, I will also include the incident reponse procedures as well since it will be vital practice for the future.
+
+*Define incident types: Unauthorised access, malware infections, or data breaches.
+*Define incident response roles and responsibilities: Identify the stakeholders,  such as incident response team members, IT personnel, legal and compliance teams, and senior management.
+*Detailed Steps: Develop step-by-step procedures for responding to each type of incident,  including initial response steps, such as containing the incident and preserving evidence; analysis and investigation steps, such as identifying the root cause and assessing the impact; response and recovery steps, such as mitigating the incident, reporting and restoring normal operations.
+*Report the incident to management and document the incident response process for future reference.
+*Communicate the incident response procedures.
+*Review and update the incident response procedures.
+
+Note: Even with all of the documentation in the lab, we do not need to adhere to every single regulation. It will heavily depend on the industry you work. A great example is myself, since I work in the insurance/healthcare insdustry, HIPPA is very prevelant.
 
 

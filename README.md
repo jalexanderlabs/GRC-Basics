@@ -84,6 +84,15 @@ Note: Splunk, AlienVault, IBM QRadar
 *Monitor and measure performance: Processes are established to monitor and measure the effectiveness of the GRC program. For example, the organisation can track metrics and compliance with security policies. This information is used to identify areas for improvement and adjust the program as needed.
 *Continuously improve: The GRC program is constantly reviewed and improved based on performance metrics, changing risk profiles, and stakeholder feedback. For example, suppose the organisation experiences a security incident. In that case, it might conduct a post-incident analysis to identify the root cause and make changes to prevent a similar incident from happening again.
 
+NIST 800-53
+
+NIST 800-53 is a publication titled "Security and Privacy Controls for Information Systems and Organisations". It was developed by the National Institute of Standards and Technology(NIST) and essentially gives the organization a catalogue of controls that protect the holy trinity of security, or the Confidentiality, Integrity and Accessibility(CIA) triad. This framework helps organizations assess and enhance the security and privacy of their information systems in accordance to various laws and regulations. It includes security controls within 20 families. The most important family amongst them is the Program Managemtn family. This is a incredibly crucial control that mandates establishing, implementing, and monitoring organisation-wide programs for information security and privacy while safeguarding the processed, stored, or transmitted through systems.
+
+Note: As of writing this, NIST 800-53 Rev5 is the latest version. 
+
+
+
+
 
 
 

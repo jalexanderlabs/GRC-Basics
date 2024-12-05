@@ -25,7 +25,6 @@ Information security regulation refers to the legal and regulatory frameworks th
 
 Note: To summarize, all of these regulation are EXTREMELY common and must be learned and adhered to if any organization is to conduct operations legal. Note: The GLBA is a European based regulation.
 
-
 Information Security Frameworks
 
 Information security frameworks provide an in-dept set of documents that outline an organization's approach to security and governs how it is implemented, managed, and enforced. This includes the following:
@@ -95,6 +94,13 @@ Service Organization Control 2 (SOC 2)
 SOC 2 was developed by the American Institute of Certified Public Accountants (AICPA) as a framework for compliance and auditing. It focuses mainly on assessing the efficacy of a company's data and security based on the CIA triad. SOC 2 also serves to reassure customers, stakeholders and business partners that the company has sufficient controls in place to safeguard its systems, data and sensitive information. The framework is crucial for service providers who interact with client data and provides solutions that process, store, or transmit sensitive data.
 
 Note: When you hear about SOC 2, you will mostly pair it with SOC2 reports.
+
+Conclusion
+
+In conclusion, cyber security is constantly changing, and it's crucial to stay ahead of malicious actors trying to exploit systems. By understanding the importance of Governance, Risk, and Compliance (GRC) in cyber security, organizations can create strong policies, monitor effectively, and comply with standards like ISO 27001 and NIST 800-53. This proactive approach helps protect sensitive systems and prevent serious breaches.
+
+
+
 
 
 

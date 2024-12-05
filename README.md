@@ -29,7 +29,15 @@ Information security governance is the organization's established structure, pol
 Information Security Regulation
 
 Information security regulation refers to the legal and regulatory frameworks that govern the use and protection of information assets. These regulations are designed to protect sensitive data from unauthorized access, theft and misuse. The most important regulations that we want to remember are the General Data Protection Regulation (GDPR), Payment Card Industry Data Security Standard(PCI DSS), Personal Information Protection and Electronic Documents Act(PIPEDA),Gramm-Leach-Bliley Act(GLBA) and the Health Information Portability and Accountability Act(HIPPA). 
+
 Note: To summarize, all of these regulation are EXTREMELY common and must be learned and adhered to if any organization is to conduct operations legaly.
+Note: The GLBA is a European based regulation.
+
+Information Security Frameworks
+
+
+
+
 
 
 

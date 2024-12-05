@@ -90,6 +90,24 @@ NIST 800-53 is a publication titled "Security and Privacy Controls for Informati
 
 Note: As of writing this, NIST 800-53 Rev5 is the latest version. 
 
+ISO/IEC 27001
+
+ISO 27001 is a standard for requirements to plan,develope,run and update and organization's Information Security Management System(ISMS).It was developed by International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) and has the following core components:
+
+*Scope: This specifies the ISMS's boundaries, including the covered assets and processes.
+*Information security policy: A high-level document defining an organisation's information security approach.
+*Risk assessment: Involves identifying and evaluating the risks to the confidentiality, integrity, and availability of the organisation's information.
+*Risk treatment: Involves selecting and implementing controls to reduce the identified risks to an acceptable level.
+*Statement of Applicability (SoA): This document specifies which controls from the standard are applicable and which are not.
+*Internal audit: This involves conducting periodic audits of the ISMS to ensure that it is operating effectively.
+*Management review: Review the performance of ISMS at regular intervals.
+
+Service Organisation Control 2 (SOC 2)
+SOC 2  was developed by the American Institute of Certified Public Accountants (AICPA) as a framework for compliance and auditing. It focuses mainly on assesing the efficacy of a company's data and security based on the CIA triad.SOC 2 also serves to reassure customers, stakeholders and business partners that the company has suffient controls in place to safeguard it's systems, data and sensitive information. The framework is crucial for service providers who interact with client data and provides solutions that process,store, or transmit sensitive data.
+
+Note: When you hear about SOC 2, you will mostly pair it with SOC2 reports.
+
+
 
 
 

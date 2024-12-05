@@ -1,4 +1,3 @@
-***Lab In Progress***
 
 Introduction
 

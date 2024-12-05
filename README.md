@@ -10,5 +10,9 @@ Learning Objectives
 
 Important Terms
 
-Governance-
+Governance- In governance, we are guiding an organization or some type of system to achieve its objectives while also complying with laws, regulations and standards.
+Regulation- This is a rule or law enforced by a governing body to make sure compliance it met and to protect from harm. 
+Compliance-This is to adhere to all laws and regulations that apply to an organization or system.
+
+
 
